@@ -1,6 +1,6 @@
 # Graph Theory
 ## Books
-Introductory Graph Theory
+Introductory Graph Theory [[amazon](https://www.amazon.com/Introductory-Graph-Theory-Dover-Mathematics-ebook/dp/B008TVFB1U/ref=cm_cr_arp_d_product_top?ie=UTF8)][[Notes]]
 
 # Graph Neural Networks
 
